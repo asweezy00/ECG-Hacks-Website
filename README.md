@@ -41,3 +41,5 @@ Run it!
 This project is licensed under the MIT license. Please see [`LICENSE.md`](LICENSE.md) for the full text.
 
 MIT License
+
+[![Run on Repl.it](https://repl.it/badge/github/asweezy00/workshops)](https://repl.it/github/asweezy00/workshops)
